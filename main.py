@@ -7,4 +7,4 @@ import click
 def main(count):
     print(count)
 
-Print (Test_click)
+print ("Test_click")
