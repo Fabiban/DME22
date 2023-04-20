@@ -6,3 +6,5 @@ import click
 @click.option('--count', default=1)
 def main(count):
     print(count)
+
+Print (Test_click)
